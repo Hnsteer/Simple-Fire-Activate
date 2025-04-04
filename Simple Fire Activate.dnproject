@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project author="Hnst" authorOS="Windows 10" createdAt="1731585644596" ideName="DevelNext" ideVersion="16.7.0" ideVersionHash="2017103112" name="Simple Fire Activate" packageName="app" template="ide\project\templates\DefaultGuiProjectTemplate" updatedAt="1743778444724">
+  <tree>
+    <expanded>
+    <path src=""/>
+      <path src="/src"/>
+      <path src="/src/.theme"/>
+      <path src="/src/app"/>
+      <path src="/src/app/forms"/>
+      <path src="/src/app/modules"/>
+    </expanded>
+  </tree>
+  <openedFiles>
+  <file src="Simple Fire Activate.dnproject"/>
+    <file src="src/app/modules/MainModule.php"/>
+    <file selected="1" src="src/app/forms/MainForm.php"/>
+    <file src="src/app/forms/TaskMGR.php"/>
+    <file src="src/app/forms/PCinfo.php"/>
+    <file src="src/app/forms/Startup.php"/>
+    <file src="src/app/forms/Browser.php"/>
+    <file src="src/app/forms/DownloadFiles.php"/>
+    <file src="src/app/forms/OpenFiles.php"/>
+    <file src="src/app/modules/OpenFiles.php"/>
+    <file src="src/app/forms/MainForm2.php"/>
+    <file src="src/app/modules/NewModule.php"/>
+    <file src="src/app/forms/CMD.php"/>
+    <file src="src/app/forms/CreateFiles.php"/>
+    <file src="src/app/forms/CRfile.php"/>
+    <file src="src/app/forms/Planirovshik.php"/>
+  </openedFiles>
+  <files/>
+  <behaviours>
+  <behaviour class="ide\project\behaviours\BundleProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\PhpProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\JavaPlatformBehaviour"/>
+    <behaviour class="ide\project\behaviours\GuiFrameworkProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\RunBuildProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\ShareProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\BackupProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\GradleProjectBehaviour"/>
+  </behaviours>
+</project>
